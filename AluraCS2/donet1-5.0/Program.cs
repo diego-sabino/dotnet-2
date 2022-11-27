@@ -1,3 +1,4 @@
+using FilmesAPI;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
@@ -7,7 +8,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace donet1_5._0
+namespace FilmesApi
 {
     public class Program
     {
