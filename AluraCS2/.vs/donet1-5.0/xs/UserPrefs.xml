@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{08A3A40B-A2A4-46A5-9283-D0F3A0B7FF21}|Default">
+  <MonoDevelop.Ide.ItemProperties.donet1-5.0 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="donet1-5.0/Controllers/MoviesController.cs">
+    <Files>
+      <File FileName="donet1-5.0/Controllers/MoviesController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="donet1-5.0" expanded="True">
+            <Node name="donet1-5.0" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="MoviesController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
