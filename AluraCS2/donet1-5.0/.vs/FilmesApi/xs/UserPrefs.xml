@@ -1,9 +1,11 @@
 ﻿<Properties StartupConfiguration="{C28E0709-4323-4AAB-8959-BA422F729A16}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Data/AppDbContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Controllers/GerenteController.cs" Line="25" Column="10" />
+      <File FileName="Controllers/GerenteController.cs" Line="38" Column="1" />
       <File FileName="Controllers/FilmeController.cs" Line="47" Column="12" />
-      <File FileName="Data/AppDbContext.cs" Line="25" Column="25" />
+      <File FileName="Data/AppDbContext.cs" Line="27" Column="2" />
+      <File FileName="Startup.cs" Line="55" Column="1" />
+      <File FileName="Program.cs" Line="17" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,11 +17,11 @@
                 <Node name="Dtos" expanded="True">
                   <Node name="Gerente" expanded="True" />
                 </Node>
-                <Node name="AppDbContext.cs" selected="True" />
               </Node>
               <Node name="Migrations" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Profiles" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
