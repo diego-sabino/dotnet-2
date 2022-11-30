@@ -1,12 +1,13 @@
 ﻿<Properties StartupConfiguration="{C28E0709-4323-4AAB-8959-BA422F729A16}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Cinema.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Profiles/GerenteProfile.cs">
     <Files>
-      <File FileName="Migrations/20221127204156_ende.cs" Line="13" Column="33" />
-      <File FileName="Data/Dtos/Cinema/CreateCinemaDto.cs" Line="17" Column="1" />
-      <File FileName="Data/Dtos/Cinema/ReadCinemaDto.cs" Line="19" Column="20" />
-      <File FileName="Startup.cs" Line="36" Column="77" />
-      <File FileName="Models/Endereco.cs" Line="21" Column="1" />
-      <File FileName="Models/Cinema.cs" Line="16" Column="24" />
+      <File FileName="Data/Dtos/Cinema/CreateCinemaDto.cs" Line="15" Column="1" />
+      <File FileName="Controllers/GerenteController.cs" Line="38" Column="90" />
+      <File FileName="Data/Dtos/Cinema/ReadCinemaDto.cs" Line="20" Column="32" />
+      <File FileName="Data/Dtos/Gerente/ReadGerenteDto.cs" Line="1" Column="1" />
+      <File FileName="Models/Gerente.cs" Line="1" Column="1" />
+      <File FileName="Models/Cinema.cs" Line="18" Column="21" />
+      <File FileName="Profiles/GerenteProfile.cs" Line="14" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,11 +18,12 @@
               <Node name="Data" expanded="True">
                 <Node name="Dtos" expanded="True">
                   <Node name="Cinema" expanded="True" />
+                  <Node name="Gerente" expanded="True" />
                 </Node>
               </Node>
-              <Node name="Migrations" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="Cinema.cs" selected="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Profiles" expanded="True">
+                <Node name="GerenteProfile.cs" selected="True" />
               </Node>
             </Node>
           </Node>
