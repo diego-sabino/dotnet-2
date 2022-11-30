@@ -10,6 +10,7 @@
     <EmbeddedResource Remove="Data\NovaPasta\**" />
     <None Remove="Data\NovaPasta\**" />
     <None Remove="MySql.EntityFrameworkCore" />
+    <None Remove="Data\Dtos\Gerente\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -29,6 +30,7 @@
 
   <ItemGroup>
     <Folder Include="Migrations\" />
+    <Folder Include="Data\Dtos\Gerente\" />
   </ItemGroup>
 
 </Project>

@@ -56,5 +56,10 @@
 /Users/zephyr/Documents/Alura/DotNETCourse/dotnet-2/AluraCS2/donet1-5.0/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
 /Users/zephyr/Documents/Alura/DotNETCourse/dotnet-2/AluraCS2/donet1-5.0/bin/Debug/net5.0/System.Runtime.CompilerServices.Unsafe.dll
 /Users/zephyr/Documents/Alura/DotNETCourse/dotnet-2/AluraCS2/donet1-5.0/bin/Debug/net5.0/ZstdNet.dll
-/Users/zephyr/Documents/Alura/DotNETCourse/dotnet-2/AluraCS2/donet1-5.0/bin/Debug/net5.0/ref/FilmesApi.dll
-/Users/zephyr/Documents/Alura/DotNETCourse/dotnet-2/AluraCS2/donet1-5.0/obj/Debug/net5.0/staticwebassets/FilmesApi.StaticWebAssets.xml
+/Users/zephyr/Documents/Alura/DotNETCourse/dotnet-2/AluraCS2/donet1-5.0/bin/Debug/net5.0/FilmesApi
+/Users/zephyr/Documents/Alura/DotNETCourse/dotnet-2/AluraCS2/donet1-5.0/obj/Debug/net5.0/staticwebassets/FilmesApi.StaticWebAssets.Pack.cache
+/Users/zephyr/Documents/Alura/DotNETCourse/dotnet-2/AluraCS2/donet1-5.0/obj/Debug/net5.0/staticwebassets/msbuild.FilmesApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/zephyr/Documents/Alura/DotNETCourse/dotnet-2/AluraCS2/donet1-5.0/obj/Debug/net5.0/staticwebassets/msbuild.build.FilmesApi.props
+/Users/zephyr/Documents/Alura/DotNETCourse/dotnet-2/AluraCS2/donet1-5.0/obj/Debug/net5.0/staticwebassets/msbuild.buildMultiTargeting.FilmesApi.props
+/Users/zephyr/Documents/Alura/DotNETCourse/dotnet-2/AluraCS2/donet1-5.0/obj/Debug/net5.0/staticwebassets/msbuild.buildTransitive.FilmesApi.props
+/Users/zephyr/Documents/Alura/DotNETCourse/dotnet-2/AluraCS2/donet1-5.0/obj/Debug/net5.0/refint/FilmesApi.dll
