@@ -1,9 +1,11 @@
 ﻿<Properties StartupConfiguration="{C28E0709-4323-4AAB-8959-BA422F729A16}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Data/AppDbContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Gerente.cs">
     <Files>
-      <File FileName="Models/Cinema.cs" Line="18" Column="9" />
-      <File FileName="Models/Gerente.cs" Line="18" Column="1" />
-      <File FileName="Data/AppDbContext.cs" Line="19" Column="69" />
+      <File FileName="Data/Dtos/Cinema/CreateCinemaDto.cs" Line="15" Column="1" />
+      <File FileName="Controllers/GerenteController.cs" Line="43" Column="37" />
+      <File FileName="Data/Dtos/Cinema/ReadCinemaDto.cs" Line="20" Column="32" />
+      <File FileName="Data/Dtos/Gerente/ReadGerenteDto.cs" Line="1" Column="1" />
+      <File FileName="Models/Gerente.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,12 +15,13 @@
               <Node name="Controllers" expanded="True" />
               <Node name="Data" expanded="True">
                 <Node name="Dtos" expanded="True">
+                  <Node name="Cinema" expanded="True" />
                   <Node name="Gerente" expanded="True" />
                 </Node>
-                <Node name="AppDbContext.cs" selected="True" />
               </Node>
-              <Node name="Migrations" expanded="True" />
-              <Node name="Models" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Gerente.cs" selected="True" />
+              </Node>
               <Node name="Profiles" expanded="True" />
             </Node>
           </Node>
